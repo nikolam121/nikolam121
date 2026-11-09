@@ -1,6 +1,6 @@
 ## Nikola Mihanovic
 
-Final-year computer science student at FER, University of Zagreb. I build REST APIs and web apps with Java, Spring Boot and JavaScript, and I am looking for a student developer position.
+Final-year computer science student at FER, University of Zagreb, looking for a student developer position.
 
 **Projects**
 
